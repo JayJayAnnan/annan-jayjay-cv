@@ -14,15 +14,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #22BABB;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #9EF8EE;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #F0BF8F;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #202030;
 }
 
 .biography-details li, .skill-list li {
