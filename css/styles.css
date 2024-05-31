@@ -34,7 +34,9 @@ body {
 	width: 1em;
 	margin-left: -1em;
 }
-
+.newcolor {
+	background-color: #22BABB
+}
 .biography-details li::before {
 	color: #202030;
 }
