@@ -10,9 +10,9 @@ body {
 	color: #202030;
 	background-color: #f8f8fc;
 }
-.poppins-thin {
+.poppins-semibold {
   font-family: "Poppins", sans-serif;
-  font-weight: 100;
+  font-weight: 600;
   font-style: normal;
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
